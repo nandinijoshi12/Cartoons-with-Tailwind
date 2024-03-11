@@ -1,0 +1,39 @@
+<div class="flex h-screen w-full items-center justify-center">
+  <div class="flex h-auto w-72 flex-col items-center bg-red-400">
+    <div class="relative z-40 flex h-48 w-36 flex-col items-center justify-end rounded-full border border-black bg-orange-100 py-10">
+      <div class="flex w-full flex-row justify-end space-x-4 px-6">
+        <div class="flex h-8 w-8 flex-col items-center justify-between">
+          <div class="w-6"><hr class="border border-black" /></div>
+          <div class="h-4 w-8 rounded-b-full border border-black bg-white"></div>
+        </div>
+        <div class="flex h-8 w-8 flex-col items-center justify-between">
+          <div class="w-6"><hr class="border border-black" /></div>
+          <div class="h-4 w-8 rounded-b-full border border-black bg-white"></div>
+        </div>
+      </div>
+      <div class="w-16"><hr class="mr-7 mt-1 translate-x-7 rotate-[82deg] transform border-1 border-black" /></div>
+      <div class="mr-24 mt-9 flex w-full justify-end"><hr class="w-4 border border-black" /></div>
+      <div class="absolute -left-3 top-1/2 h-16 w-7 -rotate-[10deg] transform rounded-bl-3xl rounded-tl-3xl border border-r-0 border-black bg-orange-100"></div>
+    </div>
+    <div class="z-30 -mt-4 h-20 w-16 rounded-b-full border-b border-l border-r border-black bg-orange-100"></div>
+    <div class="relative z-20 -mt-12 flex h-56 w-full flex-col items-center rounded-t-[80px] bg-yellow-300">
+      <div class="flex h-48 w-full flex-row rounded-t-[80px]">
+        <div class="flex h-3/4 w-2/5 justify-center rounded-b-[100px] rounded-tl-[80px] border border-black bg-white">
+          <div class="flex h-3/4 w-3/4 items-end justify-center rounded-b-[100px] rounded-tl-[80px] border-b border-l border-r border-t-0 border-black bg-white py-4">
+            <div class="h-10 w-10 rounded-full border border-black bg-sky-800"></div>
+          </div>
+        </div>
+        <div class="relative z-20 flex h-1/2 w-1/5 justify-center rounded-b-full border-b border-l-0 border-t border-black bg-slate-50">
+          <div class="absolute bottom-0 h-full w-4 border-l border-r border-black bg-blue-700"></div>
+          <div class="absolute -bottom-3 h-6 w-6 rounded-full border border-black bg-blue-700"></div>
+        </div>
+        <div class="flex h-3/4 w-2/5 justify-center rounded-b-[100px] rounded-tr-[80px] border border-black bg-white">
+          <div class="flex h-3/4 w-3/4 items-end justify-center rounded-b-[100px] rounded-tr-[80px] border-b border-l border-r border-t-0 border-black bg-white py-4">
+            <div class="h-10 w-10 rounded-full border border-black bg-sky-800"></div>
+          </div>
+        </div>
+      </div>
+      <div class="absolute z-10 h-full w-12 border-l border-r border-black bg-white"></div>
+    </div>
+  </div>
+</div>
