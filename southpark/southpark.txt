@@ -1,0 +1,59 @@
+<div class="flex h-screen w-full items-center justify-center">
+  <div class="h-auto w-52">
+    <div class="flex w-full flex-col items-center">
+      <div class="h-10 w-full px-4"><div class="h-full w-full rounded-xl border border-b-0 border-black bg-[#45B21B]"></div></div>
+      <div class="bg z-20 h-14 w-full rounded-xl border border-black bg-[#028A46]"></div>
+      <div class="relative flex h-44 w-full flex-col items-center">
+        <div class="absolute -top-8 z-10 flex h-full w-full items-center justify-center rounded-full border border-t-0 border-black bg-[#FFCDA3]">
+          <div class="relative mt-4 flex h-24 w-24 flex-col items-center justify-between">
+            <div class="flex h-16 w-full flex-row space-x-1 px-1">
+              <div class="h-full w-1/2 rotate-6 transform">
+                <div class="flex h-full w-full items-center justify-center rounded-full border border-black bg-white">
+                  <div class="ml-5 h-2 w-2 rounded-full bg-black"></div>
+                </div>
+              </div>
+              <div class="h-full w-1/2 -rotate-6 transform">
+                <div class="flex h-full w-full items-center justify-center rounded-full border border-black bg-white">
+                  <div class="mr-5 h-2 w-2 rounded-full bg-black"></div>
+                </div>
+              </div>
+            </div>
+            <div class="absolute bottom-1.5 h-2 w-full bg-[#FFCDA3]"></div>
+            <div class="w-full px-7"><hr class="h-8 w-9 rounded-full border-2 border-l-0 border-r-0 border-t-0 border-black" /></div>
+          </div>
+        </div>
+        <div class="absolute bottom-10 left-1 h-16 w-8 rounded-b-full border border-black bg-[#45B21B]"></div>
+        <div class="absolute bottom-10 right-1 h-16 w-8 rounded-b-full border border-black bg-[#45B21B]"></div>
+        <div class="absolute bottom-0 border border-black z-0 h-14 w-32 rounded-full bg-[#028A46]"></div>
+      </div>
+      <div class="-mt-2 flex w-full flex-row">
+        <div class="h-28 w-10 rounded-tl-full">
+          <div class="h-20 pl-1"><div class="h-full w-full rounded-tl-full border border-r-0 border-black bg-[#FF6812]"></div></div>
+          <div class="h-7 w-full rounded-b-full rounded-tl-full border border-r-0 border-black bg-[#45B21B]"></div>
+        </div>
+        <div class="flex h-52 w-full flex-col items-center">
+          <div class="flex h-36 w-full flex-row">
+            <div class="flex w-1/2 items-center justify-center rounded-bl-xl border border-black bg-[#FF6812] px-6 py-8">
+              <div class="h-full w-full border border-black"></div>
+            </div>
+            <div class="flex w-1/2 items-center justify-center rounded-br-xl border border-l-0 border-black bg-[#FF6812] px-6 py-8">
+              <div class="h-full w-full border border-black"></div>
+            </div>
+          </div>
+          <div class="flex h-4 w-full flex-row space-x-2 px-4">
+            <div class="h-full w-1/2 border border-b-0 border-t-0 border-black bg-[#FF6812]"></div>
+            <div class="h-full w-1/2 border border-b-0 border-t-0 border-black bg-[#FF6812]"></div>
+          </div>
+          <div class="-mt-1 flex h-8 w-full flex-row">
+            <div class="h-full w-full rounded-full bg-black"></div>
+            <div class="h-full w-full rounded-full bg-black"></div>
+          </div>
+        </div>
+        <div class="h-28 w-10 rounded-tr-full">
+          <div class="h-20 pr-1"><div class="h-full w-full rounded-tr-full border border-l-0 border-black bg-[#FF6812]"></div></div>
+          <div class="h-7 w-full rounded-b-full rounded-tr-full border border-l-0 border-black bg-[#45B21B]"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
