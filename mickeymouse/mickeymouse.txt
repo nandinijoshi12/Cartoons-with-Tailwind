@@ -1,0 +1,31 @@
+<div class="flex h-screen w-full items-center justify-center bg-sky-500">
+  <div class="flex h-72 w-72 flex-col items-center">
+    <div class="flex w-full flex-row justify-between">
+      <div class="h-28 w-28 rounded-full bg-black"></div>
+      <div class="h-28 w-28 rounded-full bg-black"></div>
+    </div>
+    <div class="relative -mt-12 h-52 w-52 rounded-full bg-black">
+      <div class="absolute bottom-4 left-0 h-24 w-28 rounded-full bg-red-200"></div>
+      <div class="absolute bottom-4 right-0 h-24 w-28 rounded-full bg-red-200"></div>
+      <div class="absolute -bottom-7 left-12 flex h-28 w-28 items-center justify-center rounded-full bg-red-200">
+        <div class="relative -mt-6 h-10 w-3/4 overflow-hidden">
+          <div class="absolute bottom-4 left-0 right-0 z-10 h-24 w-24 rounded-full border border-black bg-red-200"></div>
+          <div class="absolute bottom-0 left-3 h-14 w-14 rounded-full border border-black bg-red-400"></div>
+        </div>
+      </div>
+      <div class="items- absolute left-16 top-20 flex h-20 w-20 justify-center rounded-full bg-red-200">
+        <div class="mt-10 h-6 w-12 rounded-full bg-black"></div>
+      </div>
+      <div class="absolute left-14 top-10 flex h-20 w-14 -rotate-6 transform items-center justify-center rounded-full bg-red-200">
+        <div class="flex h-12 w-6 items-end justify-center rounded-full border border-black bg-white">
+          <div class="ml-1 h-6 w-4 rounded-full bg-black"></div>
+        </div>
+      </div>
+      <div class="absolute right-14 top-10 flex h-20 w-14 rotate-6 transform items-center justify-center rounded-full bg-red-200">
+        <div class="flex h-12 w-6 items-end justify-center rounded-full border border-black bg-white">
+          <div class="mr-1 h-6 w-4 rounded-full bg-black"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
